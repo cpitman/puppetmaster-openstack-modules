@@ -5,6 +5,7 @@ mod "puppetlabs/git"
 mod "puppetlabs/ruby"
 mod "puppetlabs/inifile"
 mod "zack/r10k"
+mod "puppetlabs/ntp"
 
 mod "role", :git => "https://github.com/cpitman/puppetmaster-openstack-roles.git"
 
